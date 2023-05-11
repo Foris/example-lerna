@@ -48,7 +48,8 @@ tsup src/index.tsx --format esm,cjs --dts --external react
 {
   "name": "@foris/core",
   "version": "0.0.0",
-  "main": "./dist/index.js",}
+  "main": "./dist/index.js"
+ }
 ```
 
 Run `pnpm build` to confirm compilation is working correctly. You should see a folder `foris-core/dist` which contains the compiled output.
