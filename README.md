@@ -2,7 +2,7 @@
 
 This guide explains how to use a React design system starter powered by:
 
-- 🏎 [lenar](https://turbo.build/repo) — High-performance build system for Monorepos
+- 🏎 [lerna](https://lerna.js.org/) — High-performance build system for Monorepos
 - 🚀 [React](https://reactjs.org/) — JavaScript library for user interfaces
 - 🛠 [Tsup](https://github.com/egoist/tsup) — TypeScript bundler powered by esbuild
 
@@ -12,7 +12,6 @@ As well as a few others tools preconfigured:
 ## System required
 
 nodejs >= 19.0.1
-
 
 
 ### Documentation
@@ -26,7 +25,7 @@ nodejs >= 19.0.1
 
 ## Packages
 
-This Turborepo includes the following packages and applications:
+This `Lerna` includes the following packages and applications:
 
 - `packages/@fori/core`: Core React components
 
