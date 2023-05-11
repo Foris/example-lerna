@@ -57,9 +57,7 @@ Run `pnpm build` to confirm compilation is working correctly. You should see a f
 ```bash
 foris-core
 └── dist
-    ├── index.d.ts  <-- Types
     ├── index.js    <-- CommonJS version
-    └── index.mjs   <-- ES Modules version
 ```
 
 ### Authors
