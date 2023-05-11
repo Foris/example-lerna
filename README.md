@@ -1,4 +1,4 @@
-# Turborepo Design System
+# Lerna Design System
 
 This guide explains how to use a React design system starter powered by:
 
@@ -13,9 +13,11 @@ As well as a few others tools preconfigured:
 
 nodejs >= 19.0.1
 
-### Authors
 
-- [@markozxuu](https://www.github.com/markozxuu)
+
+### Documentation
+
+- [benchmark this monorepo](https://forisai.atlassian.net/wiki/spaces/IN/pages/2447835145/Monorepos)
 
 
 ### Useful Commands
@@ -59,4 +61,8 @@ foris-core
     ├── index.js    <-- CommonJS version
     └── index.mjs   <-- ES Modules version
 ```
+
+### Authors
+
+- [@markozxuu](https://www.github.com/markozxuu)
 
